@@ -1,0 +1,2 @@
+# xbosta
+Turn off the xbox 360 controller 'CAUSE MICROSOFT NEVER PUT A "TURN OFF CONTROLLER" BUTTON ON WINDOWS
